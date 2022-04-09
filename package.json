@@ -22,7 +22,7 @@
     "fs-extra": "^8.1.0",
     "googleapis": "^48.0.0",
     "jsonwebtoken": "^8.5.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.27",
     "mongoose": "^5.9.10",
     "morgan": "^1.9.1",
